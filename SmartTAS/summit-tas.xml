@@ -1,0 +1,9 @@
+<service>
+     <id>summit-tas</id>
+     <name>summit-tas</name>
+     <description>This is SmartTAS!</description>
+     <executable>C:\Program Files\Java\jdk1.8.0_171\bin\java</executable>
+     <arguments>-jar summit-tas.jar</arguments>
+     <startmode>Automatic</startmode>
+     <logmode>rotate</logmode>
+</service>
